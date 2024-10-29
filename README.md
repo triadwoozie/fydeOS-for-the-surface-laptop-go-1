@@ -106,5 +106,5 @@ After installation, during the first boot into FydeOS, open the Brunch Configura
 
 > **Note**: Avoid modifying other settings unless you are familiar with them. Each option provides specific compatibility or fixes for hardware not natively supported by FydeOS.
 ---
-Next Steps
+## Next Steps
 You’re now ready to use FydeOS on your Surface Laptop Go. For further configurations, explore kernel settings and frameworks in the OpenFyde (Settings) boot option.
